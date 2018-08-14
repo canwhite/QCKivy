@@ -14,7 +14,7 @@ python 文件名.py
 ## POST
 [kivy中文教程](https://cycleuser.gitbooks.io/kivy-guide-chinese/content/02-Kivy-Basics.html)
 
-
+[官方文档中文翻译](https://www.kancloud.cn/gthank/kivydoc/127793)
 
 
 
